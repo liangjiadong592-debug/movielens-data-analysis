@@ -1,16 +1,17 @@
-# MovieLens Data Analysis & Machine Learning
+# End-to-end MovieLens analysis featuring data cleaning, exploratory visualization, feature engineering, and machine learning modeling with Python.
 
 ## Overview
-This project analyzes movie rating data using Python and machine learning techniques.
+This project analyzes MovieLens rating data to uncover patterns in movie popularity and user preferences. It covers data cleaning, exploratory data analysis, feature engineering, visualization, and the application of clustering, regression, and classification models using Python.
 
 ## Features
-- Data cleaning and preprocessing
-- Feature engineering (movie popularity, like rate)
-- Data visualization (histograms, heatmaps)
-- Machine learning models (clustering, regression, classification)
+- Cleaned and preprocessed movie and rating datasets
+- Engineered popularity and user-preference features
+- Visualized rating distributions, correlations, and genre trends
+- Applied clustering, regression, and classification models
+- Evaluated and compared model performance
 
 ## Tools
 Python, Pandas, Matplotlib, Scikit-learn
 
 ## How to Run
-Open Homework1.ipynb and run all cells.
+Open movielens_analysis.ipynb in Jupyter Notebook and run all cells in order.
