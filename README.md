@@ -1,4 +1,4 @@
-# End-to-end MovieLens analysis featuring data cleaning, exploratory visualization, feature engineering, and machine learning modeling with Python.
+# MovieLens Data Analysis & Machine Learning
 
 ## Overview
 This project analyzes MovieLens rating data to uncover patterns in movie popularity and user preferences. It covers data cleaning, exploratory data analysis, feature engineering, visualization, and the application of clustering, regression, and classification models using Python.
